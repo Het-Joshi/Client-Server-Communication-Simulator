@@ -56,7 +56,7 @@ After the transfer is complete, the client will close the connection.
 
 Ensure that both the client and server are running on the same network or host.
 
-> Make sure the file you request on the client exists in the directory where the server code is located, or specify the full path to the file on the server in the client's request.
+Make sure the file you request on the client exists in the directory where the server code is located, or specify the full path to the file on the server in the client's request.
 
 This is a basic example and lacks error handling, security measures, and advanced features that would be needed for a production environment.
 
