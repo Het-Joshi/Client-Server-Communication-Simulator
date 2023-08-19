@@ -1,0 +1,2 @@
+This is a Test file!
+By passing The name of a file in the Client Program, The server side will read the contents of this file and print them out on the Client side.
